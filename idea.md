@@ -3,6 +3,8 @@
 
 Just another idea.
 
+ - replace passwords using certificates
+
 ## TODO
  - create glossary (host = users pc or other device, token = ...)
 
@@ -45,11 +47,15 @@ Just another idea.
  - software (including all firmware) should be opensource, so user can 
  REALLY trust the device, should be user-flashable
  - carry my WoT with me
- - gpg key signing (attach two devices via cable)
+ - gpg key signing (attach two devices via cable or something easy & 
+ fast enough, but secure)
+  - "Hey I just met you, and this is crazy, but here's my key, so 
+  identify me maybe" (and we can communicate securely in future)
  - all-those-standards, pkcs#11, rsa, shaX, pgp, ...
  - rubberhose encryption <3
  - one device for all eID needs
  - log all actions?
+
 
 
 ## Hardware
